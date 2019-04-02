@@ -1,0 +1,10 @@
+La idea de este repositorio es probar varios conceptos para el desarrollo de aplicaciones de microservicios.
+
+Adicionalmente el propósito de este README es el de actuar como un diario en el cual iré registrando mis avances.
+
+Día 1: 25/03/2019 - Creación del proyecto
+En este día nos enfocaremos en hacer la creación de un simple proyecto de express.
+
+Día 2: 01/04/2019 - ES6 / Inicio de Schema de GraphQL
+Instalamos babel para que nuestro proyecto pueda correr con las características de ES6.
+
